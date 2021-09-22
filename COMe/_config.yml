@@ -1,0 +1,30 @@
+title: ADLINK Industrial Pi Wiki
+subtitle: "ADLINK Industrial Pi Documentation."
+description: "ADLINK Industrial Pi Documentation."
+author: ADLINK Technology Inc. All Rights Reserved.
+language:
+  - en
+timezone: PRC
+
+
+url: https://docs.ipi.wiki/
+root: /COMe/
+permalink: news/:year/:month/:day/:title/
+archive_dir: news
+code_dir: downloads/code
+new_post_name: :year-:month-:day-:title.md # File name of new posts
+post_asset_folder: true
+per_page: 0
+
+skip_render: vendor/**
+
+theme: navy
+
+
+highlight:
+  enable: true
+  line_number: false
+
+
+google_analytics: UA-161199547-2
+

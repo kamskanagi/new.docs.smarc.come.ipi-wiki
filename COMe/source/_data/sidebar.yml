@@ -1,0 +1,19 @@
+ava:
+  Getting Started:
+    Introduction: index.html
+    UnBoxing: Unboxing.html
+    User Interfaces: UserInterfaces.html
+    How to Setup: HowToSetup.html
+    How to use Serial Console: HowToUseSerialConsole.html
+  Hardware Documentation:
+    Module Introduction: ModuleIntroduction.html
+    Carrier Introduction: CarrierIntroduction.html
+  User Guides:
+    Updating EDK2-UEFI Firmware: edk2-firmware-update.html
+  Software Documentation:
+    Yocto: YoctoInstallation.html
+    Ubuntu: UbuntuInstallation.html
+    CentOS: CentOSInstallation.html
+
+
+

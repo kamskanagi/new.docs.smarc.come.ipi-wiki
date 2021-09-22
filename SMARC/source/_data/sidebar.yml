@@ -1,0 +1,46 @@
+ipi-smarc-imx8mp:
+  Getting Started:
+    UnBoxing: index.html
+    User Interfaces: UserInterfaces.html
+    How to Setup: HowToSetup.html
+  Hardware Documentation:
+    Module Introduction: ModuleIntroduction.html
+    Carrier Introduction: CarrierIntroduction.html
+  Software Documentation:
+    Yocto: YoctoImages.html
+    Ubuntu: UbuntuImages.html
+    Android: AndroidImages.html
+    Prepare your SD Card: HowToFlashImageSD
+    Prepare your eMMC: HowToFlashImageeMMC.html
+  Software Guideline:
+    How to Build Yocto: HowToBuildYocto.html
+    How to Build Ubuntu: HowToBuildUbuntu.html
+    Examples & How-to: ExampleHowto.html
+  AI Inferencing on NPU:
+    AI Inferencing: AIInferencingOnNPU.html
+  Software Partners:
+    CANDERA CGI Studio: CanderaCGIStudioPage.html
+    
+ipi-smarc-px30:
+  Getting Started:
+    UnBoxing: index.html
+    User Interfaces: UserInterfaces.html
+    How to Setup: HowToSetup.html
+  Hardware Documentation:
+    Module Introduction: ModuleIntroduction.html
+    Carrier Introduction: CarrierIntroduction.html
+  Software Documentation:
+    Yocto: YoctoImages.html
+    Ubuntu: UbuntuImages.html
+    Android: AndroidImages.html
+    Debian: DebianImages.html
+    Prepare your SD Card: HowToFlashImage.html
+  Software Guideline:
+    How to Build Yocto:  HowToBuildYocto.html
+    How to Build Ubuntu: HowToBuildUbuntu.html
+    How to Build Debian: HowToBuildDebian.html
+    How to Build U-boot:  HowToBuildUboot.html
+    How to Install MRAA&UPM: HowToInstallMRAAUPM.html
+    Examples & How-to: ExampleHowto.html
+  Software Partners:
+    CANDERA CGI Studio: CanderaCGIStudioPage.html
